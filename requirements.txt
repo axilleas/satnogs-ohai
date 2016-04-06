@@ -1,4 +1,7 @@
-django==1.9.4
+django==1.9.5
 django_dotenv==1.4.1
 dj-database-url==0.4.0
 git+https://github.com/comzeradd/ohai-kit.git
+
+MySQL-python==1.2.5
+gunicorn==19.4.5
